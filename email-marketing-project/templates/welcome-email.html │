@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Welcome Email</title>
+</head>
+<body style="font-family: Arial;">
+  <table width="600" align="center">
+    <tr>
+      <td>
+        <h2>Welcome to Our Newsletter</h2>
+        <p>Thank you for subscribing!</p>
+        <a href="#" style="background:#007BFF;color:white;padding:10px 20px;text-decoration:none;">
+          Shop Now
+        </a>
+      </td>
+    </tr>
+  </table>
+</body>
+</html>
